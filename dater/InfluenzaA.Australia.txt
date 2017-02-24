@@ -1,0 +1,3 @@
+Dataset	Clock	TMRCA	Rate	CV
+InfluenzaA.Australia	Strict	1940-03-09	0.0026020886682047	0
+InfluenzaA.Australia	Relaxed	1957-12-13	0.00282116926400427	0.595288240264646

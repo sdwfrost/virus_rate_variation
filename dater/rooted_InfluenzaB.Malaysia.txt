@@ -1,0 +1,3 @@
+Dataset	Clock	TMRCA	Rate	CV
+rooted_InfluenzaB.Malaysia	Strict	1985-05-14	0.0019410486850716	0
+rooted_InfluenzaB.Malaysia	Relaxed	1955-02-07	0.000331296475072608	1.60919831918575

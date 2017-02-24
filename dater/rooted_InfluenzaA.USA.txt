@@ -1,0 +1,3 @@
+Dataset	Clock	TMRCA	Rate	CV
+rooted_InfluenzaA.USA	Strict	1688-08-20	0.0192146085602292	0
+rooted_InfluenzaA.USA	Relaxed	NA	9.46897347315781e-20	3.36210029342915

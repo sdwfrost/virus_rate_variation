@@ -1,0 +1,3 @@
+Dataset	Clock	TMRCA	Rate	CV
+rooted_HepatitisCvirus.Scotland	Strict	2007-10-17	0.00683395977018477	0
+rooted_HepatitisCvirus.Scotland	Relaxed	1993-07-30	0.00252199360813236	0.653327270923744

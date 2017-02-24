@@ -1,0 +1,3 @@
+Dataset	Clock	TMRCA	Rate	CV
+rooted_HumanparvovirusB19.Netherlands	Strict	1978-03-07	0.000356793580703645	0
+rooted_HumanparvovirusB19.Netherlands	Relaxed	1962-12-11	0.000226948277066301	0

@@ -1,0 +1,3 @@
+Dataset	Clock	TMRCA	Rate	CV
+Humanrespiratorysyncytialvirus.Germany	Strict	1983-02-12	0.00305095323033722	0
+Humanrespiratorysyncytialvirus.Germany	Relaxed	1983-02-12	0.00304862556825012	0.000654497927588331

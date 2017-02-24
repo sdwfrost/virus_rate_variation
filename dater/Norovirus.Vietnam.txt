@@ -1,0 +1,3 @@
+Dataset	Clock	TMRCA	Rate	CV
+Norovirus.Vietnam	Strict	2003-11-01	0.0108781100607616	0
+Norovirus.Vietnam	Relaxed	2004-08-05	0.0105180526952332	0.282354052539734

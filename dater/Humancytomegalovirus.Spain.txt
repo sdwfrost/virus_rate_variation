@@ -1,0 +1,3 @@
+Dataset	Clock	TMRCA	Rate	CV
+Humancytomegalovirus.Spain	Strict	2001-03-04	0.00137600881967015	0
+Humancytomegalovirus.Spain	Relaxed	-1-12-26	8.60661837561966e-05	2460.07833356423

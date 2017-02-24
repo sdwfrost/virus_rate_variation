@@ -1,0 +1,3 @@
+Dataset	Clock	TMRCA	Rate	CV
+rooted_EnterovirusD68.Canada	Strict	2012-10-08	0.00556345595001787	0
+rooted_EnterovirusD68.Canada	Relaxed	2012-10-08	0.00555694329524616	0.00305185583676066

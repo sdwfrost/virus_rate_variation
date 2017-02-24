@@ -1,0 +1,3 @@
+Dataset	Clock	TMRCA	Rate	CV
+rooted_Puumalavirus.Germany	Strict	1670-08-18	5.93256113838958e-05	0
+rooted_Puumalavirus.Germany	Relaxed	1668-08-26	5.87472210777542e-05	0

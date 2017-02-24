@@ -1,0 +1,3 @@
+Dataset	Clock	TMRCA	Rate	CV
+rooted_Measles.China	Strict	1830-02-02	0.000297723556098488	0
+rooted_Measles.China	Relaxed	1824-07-08	0.000295788643119942	0.00149938724880422

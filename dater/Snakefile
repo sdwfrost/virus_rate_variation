@@ -1,0 +1,13 @@
+IDS, = glob_wildcards("../ml_trees/{id}.phy_phyml_tree")
+
+rule all:
+  input:
+    expand("{id}.RData", id=IDS)
+
+rule dater:
+    input: "../ml_trees/{d1}.phy_phyml_tree"
+    output: "{d1}.RData"
+    params: prefix = "{d1}", nreps = 100, numStart=2, searchRoot = 2
+    threads: 2
+    shell: "Rscript dater.R {params.prefix} {threads} {params.nreps} {params.numStart} {params.searchRoot}"
+

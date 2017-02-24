@@ -1,0 +1,3 @@
+Dataset	Clock	TMRCA	Rate	CV
+rooted_Rubella.Japan	Strict	1793-06-03	0.000502568403966319	0
+rooted_Rubella.Japan	Relaxed	1783-07-19	0.000355020122289685	0.601302597692206

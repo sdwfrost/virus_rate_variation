@@ -1,0 +1,3 @@
+Dataset	Clock	TMRCA	Rate	CV
+rooted_Chikungunya.SouthEastAsia	Strict	1858-02-06	0.000277452301150274	0
+rooted_Chikungunya.SouthEastAsia	Relaxed	1872-08-26	0.000237965937833943	0.506349592493199
